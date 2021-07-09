@@ -1,5 +1,5 @@
-﻿# 32 x 8 LED Matrix Spectrum Analyzer
-This project is an LED Matrix Spectrum Analyzer using Arduino and a 32 x 8 NeoPixel LED Matrix. It uses an FFT analyzer to convert audio input to numbers to be displayed on the matrix. It takes computer audio and displays the spectrum onto the LED Matrix. 
+﻿# Phone Controlled Robotic Arm
+This project is a phone controlled robotic arm. It uses an ESP32 to recieve signals through Bluetooth into an phone app. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
