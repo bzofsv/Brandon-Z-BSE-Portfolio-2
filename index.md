@@ -19,7 +19,7 @@ My second milestone is getting the basic project working with my microphone inpu
 
 # First Milestone
   
-My first milestone is finishing the building of the robotic arm. The arm uses four servos to control the jaw, up and down, forward and back, and rotation. 
+My first milestone is finishing the building of the robotic arm. The arm uses four servos to control the jaw, up and down, forward and back, and rotation. While building, some of the pieces were too thin and broke easily so I had to be careful not to damage the pieces. I also did not have enough nuts, so I was delayed by a few days while I built the arm.
 
 <html><iframe width="560" height="315" src="https://www.youtube.com/embed/lD5OQyxPeas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
 
