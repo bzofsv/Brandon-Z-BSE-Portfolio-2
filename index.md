@@ -13,6 +13,7 @@ My final milestone is finishing the Arduino code to take in values from Bluetoot
 <html><iframe width="560" height="315" src="https://www.youtube.com/embed/ezvlisAyfmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
 
 Arduino Code:
+
 <img width="345" alt="Screen Shot 2021-07-23 at 11 08 37 AM" src="https://user-images.githubusercontent.com/64446009/126823546-db129fbd-7030-45a9-b592-ec0bf11888db.png">
 
 
