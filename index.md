@@ -20,7 +20,7 @@ Arduino Code:
 # Second Milestone
 My second milestone is finishing the phone app and connecting it to the ESP32. The phone app is designed using MIT App Inventor, an online software, and downloaded onto an Android phone. The phone connects to the ESP32 through Bluetooth, and using the sliders, controls each servo at the joints. The app also has two buttons to connect and disconnect, and text displaying whether or not Bluetooth is connected. When each slider is changed, the position of the slider, as well as a prefix to show the servo number, is printed to Bluetooth. 
 
-<html><iframe width="560" height="315" src="https://www.youtube.com/embed/DgJuS6sL5Zc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/CL_Ch6y5oyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
 
 App code:
 ![MIT App Inventor Code](https://user-images.githubusercontent.com/64446009/126823391-31409fcc-2a69-4ecb-9b25-02d5727ed3c3.png)
