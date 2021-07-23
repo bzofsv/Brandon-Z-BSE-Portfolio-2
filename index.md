@@ -5,7 +5,8 @@ This project is a phone controlled robotic arm. It uses an ESP32 to recieve sign
 |:--:|:--:|:--:|:--:|
 | Brandon Zhang | Lynbrook High School | Electrical Engineering | Incoming Sophmore
 
-![LEDMatrixThumbnail](https://user-images.githubusercontent.com/64446009/124314501-5ae38600-db27-11eb-8300-bf81c78d73fe.jpeg)
+<img width="1073" alt="Screen Shot 2021-07-23 at 11 19 36 AM" src="https://user-images.githubusercontent.com/64446009/126824711-f237383f-3196-4df5-a574-39d18a432284.png">
+
   
 # Final Milestone
 My final milestone is finishing the Arduino code to take in values from Bluetooth, convert them to servo positions, and sets the servo to that position. The code takes inputs from Bluetooth and reads the first two characters to determine which servo. Afterwards, it ignores the first two and reads the number, which is 1-50, and converts to a number from 1-180 which is then intputted to the servos.
