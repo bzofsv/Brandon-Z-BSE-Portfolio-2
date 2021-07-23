@@ -10,7 +10,7 @@ This project is a phone controlled robotic arm. It uses an ESP32 to recieve sign
 # Final Milestone
 My final milestone is finishing the Arduino code to take in values from Bluetooth, convert them to servo positions, and sets the servo to that position. The code takes inputs from Bluetooth and reads the first two characters to determine which servo. Afterwards, it ignores the first two and reads the number, which is 1-50, and converts to a number from 1-180 which is then intputted to the servos.
 
-<html><iframe width="560" height="315" src="https://www.youtube.com/embed/ezvlisAyfmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/5K65qKzmIDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
 
 Arduino Code:
 
